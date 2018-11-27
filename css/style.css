@@ -1,9 +1,32 @@
-.row{
-  text-align:center;
+body{
+  background-color: #f8ffc1;
+  font-family:'Rancho', cursive;
+  color:red;
+  font-size: 20px
+}
+h1{
+font-family: 'Supermercado One', cursive;
+color: red
+}
+
+h3{
+  border:1px solid red;
+}
+
+img{
+  border:20px dotted red;
   
 }
+
+.result{
+  color: red;
+}
+.row{
+  text-align:center;
+}
+
 #choices{
   display:flex;
   justify-content:space-between;
-  
 }
+
